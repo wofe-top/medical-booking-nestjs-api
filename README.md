@@ -1,5 +1,5 @@
 ```markdown
-# 🏥 medical-booking-laravel-api — Medical Appointment Management System
+# Medical Booking NestJs API
 
 A robust, scalable RESTful API built with **NestJS**, **TypeScript**, and **MongoDB (Mongoose)** for managing medical appointment bookings, doctor availability schedules, specialties, and payment transactions.
 
@@ -73,8 +73,8 @@ src/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/Wissam-eng/medical-booking-laravel-api.git
-cd medical-booking-laravel-api
+git clone https://github.com/Wissam-eng/medical-booking-nestjs-api.git
+cd medical-booking-nestjs-api
 
 ```
 
