@@ -73,7 +73,7 @@ src/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/Wissam-eng/medical-booking-nestjs-api.git
+git clone https://github.com/wofe-top/medical-booking-nestjs-api.git
 cd medical-booking-nestjs-api
 
 ```
