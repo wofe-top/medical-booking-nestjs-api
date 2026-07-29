@@ -1,5 +1,5 @@
 ```markdown
-# 🏥 PulseBook API — Medical Appointment Management System
+# 🏥 medical-booking-laravel-api — Medical Appointment Management System
 
 A robust, scalable RESTful API built with **NestJS**, **TypeScript**, and **MongoDB (Mongoose)** for managing medical appointment bookings, doctor availability schedules, specialties, and payment transactions.
 
@@ -73,8 +73,8 @@ src/
 
 1. **Clone the repository**:
 ```bash
-git clone [https://github.com/Wissam-eng/PulseBook-api.git](https://github.com/Wissam-eng/PulseBook-api.git)
-cd PulseBook-api
+git clone https://github.com/Wissam-eng/medical-booking-laravel-api.git
+cd medical-booking-laravel-api
 
 ```
 
@@ -90,7 +90,7 @@ npm install
 Create a `.env` file in the root directory:
 ```env
 PORT=3000
-MONGO_URI=mongodb://localhost:27017/pulsebook_db
+MONGO_URI=mongodb://localhost:27017/medical_booking_db
 JWT_SECRET=your_super_secret_jwt_key
 
 ```

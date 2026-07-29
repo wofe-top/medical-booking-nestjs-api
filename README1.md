@@ -1,7 +1,7 @@
 
 
 ```markdown
-# 🏥 PulseBook API — Medical Appointment Management System
+# Medical Booking NestJs API
 
 A robust, scalable RESTful API built with **NestJS**, **TypeScript**, and **MongoDB (Mongoose)** for managing medical appointment bookings, doctor availability schedules, specialties, and payment transactions.
 
